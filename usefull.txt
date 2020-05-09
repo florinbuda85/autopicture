@@ -1,2 +1,4 @@
 https://android.jlelse.eu/androids-new-image-capture-from-a-camera-using-file-provider-dd178519a954
 
+
+https://www.tutorialspoint.com/how-to-take-pictures-with-camera-on-android-programmatically`
